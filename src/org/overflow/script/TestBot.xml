@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>org.overflow.script.TestBot</main-class>
+    <name>Overlay Test</name>
+    <tag-line>Development</tag-line><!--Max of 50 chars-->
+    <description>NA</description><!--Max of 110 chars-->
+    <version>0.0.2</version>
+    <compatibility>
+        <game>RS3</game>
+    </compatibility>
+    <categories>
+        <category>Development</category>
+    </categories>
+    <!--Required to publish on the bot store-->
+    <internal-id>Test Bot</internal-id>
+    <open-source>false</open-source>
+    <resource></resource>
+    <hidden>false</hidden> <!--If you need to hide it from the bot store for maintenance-->
+    <access>public</access>
+    <tags>
+    </tags>
+</manifest>
